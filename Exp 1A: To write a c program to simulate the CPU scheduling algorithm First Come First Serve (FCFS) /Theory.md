@@ -1,5 +1,7 @@
 # First Come First Serve (FCFS) CPU Scheduling Algorithm
 
+### Date: 04 Mar 2025
+
 ## 🎯 AIM
 To write a C program to simulate the CPU scheduling algorithm **First Come First Serve (FCFS)**.
 
