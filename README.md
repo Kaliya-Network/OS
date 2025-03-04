@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/CodeWithTanim/README-MANAGER/blob/main/os.gif" alt="Operating System Repository" style="max-width: 100%; height: auto; width: 350px;">
+    <img src="https://github.com/Kaliya-Network/OS/blob/main/OS.gif" alt="Operating System Repository" style="max-width: 100%; height: auto; width: 350px;">
 </p>
 
 <h1 align="center">🖥️ Operating System (OS) 🔄</h1>
