@@ -26,7 +26,7 @@ This repository contains **Operating System notes, process scheduling algorithms
 ## **📜 Practical Experiments** (To Be Written in Lab Copy)
 | #  | Experiment Name | Notes 📖 |  Source Code 🧑‍💻 | Date 📅 |
 |----|----------------------------------|---------|-----------------|-----------------|
-| 1  | Implement FCFS Scheduling Algorithm | [View Notes](#) | [View Code](#) | 04 Mar 2025 |
+| 1  | To write a c program to simulate the CPU scheduling algorithm First Come First Serve (FCFS) | [View Notes](#) | [View Code](#) | 04 Mar 2025 |
 <!-- | 2  | Implement Round Robin Scheduling | [View Notes](#) | [View Code](#) | 12 Mar 2025 |
 
 ## **📜 Topics Covered** (Not Required in Lab Copy)
