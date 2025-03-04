@@ -70,14 +70,15 @@ Enter Burst Time for Process 2 -- 3
 ```
 
 ## 📤 OUTPUT
+```
 | PROCESS | BURST TIME | WAITING TIME | TURNAROUND TIME |
 |---------|------------|--------------|-----------------|
 | P0      | 24         | 0            | 24              |
 | P1      | 3          | 24           | 27              |
 | P2      | 3          | 27           | 30              |
 
-- **Average Waiting Time**: `17.000000`
-- **Average Turnaround Time**: `27.000000`
-
+**Average Waiting Time**: `17.000000`
+**Average Turnaround Time**: `27.000000`
+```
 ---
 📌 **Note:** This program simulates FCFS CPU Scheduling, demonstrating the calculation of waiting and turnaround times effectively.
