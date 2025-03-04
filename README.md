@@ -26,7 +26,7 @@ This repository contains **Operating System notes, process scheduling algorithms
 ## **📜 Practical Experiments** (To Be Written in Lab Copy)
 | #  | Experiment Name | Notes 📖 |  Source Code 🧑‍💻 | Date 📅 |
 |----|----------------------------------|---------|-----------------|-----------------|
-| 1  | To write a c program to simulate the CPU scheduling algorithm First Come First Serve (FCFS) | [View Notes](#) | [View Code](#) | 04 Mar 2025 |
+| 1  | To write a c program to simulate the CPU scheduling algorithm First Come First Serve (FCFS) | [View Notes](https://github.com/Kaliya-Network/OS/blob/main/Exp%201A%3A%20To%20write%20a%20c%20program%20to%20simulate%20the%20CPU%20scheduling%20algorithm%20First%20Come%20First%20Serve%20(FCFS)%20/Theory.md) | [View Code](https://github.com/Kaliya-Network/OS/blob/main/Exp%201A%3A%20To%20write%20a%20c%20program%20to%20simulate%20the%20CPU%20scheduling%20algorithm%20First%20Come%20First%20Serve%20(FCFS)%20/Exp1A%3A_FCFS.c) | 04 Mar 2025 |
 <!-- | 2  | Implement Round Robin Scheduling | [View Notes](#) | [View Code](#) | 12 Mar 2025 |
 
 ## **📜 Topics Covered** (Not Required in Lab Copy)
