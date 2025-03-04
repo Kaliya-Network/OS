@@ -50,7 +50,7 @@ This repository contains **Operating System notes, process scheduling algorithms
 ## **🚀 Quick Start**
 ### **Clone the Repository**
 ```bash
- git clone https://github.com/CodeWithTanim/OS.git
+ git clone https://github.com/Kaliya-Network/OS.git
 ```
 ### **Navigate to the Folder**
 ```bash
@@ -65,6 +65,6 @@ This repository is for **personal and educational use only**. If you're part of 
 ---
 
 ## **📢 Stay Connected**
-🔗 **GitHub**: [@CodeWithTanim](https://github.com/CodeWithTanim)  
+🔗 **GitHub**: [@Kaliya-Network](https://github.com/Kaliya-Network)  
 
 📌 *Happy Learning & Coding!* 🚀
